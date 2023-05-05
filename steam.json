@@ -1,0 +1,53 @@
+{
+	"name": "Steam",
+	"description" : "Imagine Valve decide to partnership with Discord.",
+	"authors": [ 
+	{
+			"name": "Whiskey Project",
+		  "id": "366218984573632514"
+	}
+],
+
+"semanticColors": { 
+							"HEADER_PRIMARY":  ["#ffffff", "#171a21", "#ffffff"],
+                            "HEADER_SECONDARY": ["#2a475e", "#1b2838", "#2a475e"], 
+                            "TEXT_NORMAL": ["#ffffff", "#171a21", "#ffffff"],
+                            "TEXT_LINK": ["#66c0f4","#003e61","#66c0f4"],
+                            "TEXT_MUTED": ["#ffffff", "#171a21", "#ffffff"],
+                            "BACKGROUND_MENTIONED": [" #4c6b22"," #4c6b22", "#4c6b22"],
+                            "BACKGROUND_MENTIONED_HOVER": ["#4c6b2a","#4c6b2a","#4c6b2a"],
+                            "BACKGROUND_PRIMARY": [" #0b1621"," #3773b3", "#010305"],
+                            "BACKGROUND_SECONDARY": [" #152538"," #5190d3", "#051320"],
+                            "BACKGROUND_SECONDARY_ALT": [" #142639"," #5291d4", "#061421"],
+                            "BACKGROUND_TERTIARY": [" #111e2b"," #4579b0", "#060d14"],
+                            "BACKGROUND_ACCENT": [" #1a9fff"," #1a9fff", "#1a9fff"],
+                            "BACKGROUND_FLOATING": [" #1f2127"," #d1d1d1", "#060f17"],
+                            "BACKGROUND_MOBILE_PRIMARY": [" #0b1621"," #3773b3", "#010305"],
+                            "BACKGROUND_MOBILE_SECONDARY": [" #152538"," #5190d3", "#051320"],
+                            "BACKGROUND_MODIFIER_SELECTED": ["#112a45","#315d8c","#07131f"],
+                            "BACKGROUND_MODIFIER_ACTIVE": [" #4c6b22"," #4c6b22", "#4c6b22"],
+                            "BACKGROUND_MODIFIER_ACCENT": [" #12202e","#487eb8", "#03070a"],
+
+                            "SCROLLBAR_THIN_THUMB": ["#1E2233","#1E2233","#1E2233"],
+                            "SCROLLBAR_THIN_TRACK": ["transparent","transparent","transparent"],
+                            "SCROLLBAR_AUTO_THUMB": ["#1E2233","#1E2233","#1E2233"],
+                            "SCROLLBAR_AUTO_TRACK": ["#1E2233","#1E2233","#1E2233"],
+                            "CHANNEL_ICON": ["#ffffff", "#171a21", "#ffffff"],
+                            "CHANNELTEXTAREA_BACKGROUND": ["#949599","#404142","#c1c3c9"],
+                            "CHAT_BACKGROUND": [" #192b3e"," #5796d9", "#0b1926"],
+                            "SPOILER_HIDDEN_BACKGROUND": ["#1d2a36"]
+},
+"rawColors": { 
+                    "YELLOW_300": "#beee11",
+                    "PRIMARY_600": "#284563",
+                    "PRIMARY_630": "#20374f",
+                    "PRIMARY_660": "#182a3d",
+                    "PRIMARY_700": "#142333",
+                    "PRIMARY_800": "#0b1621",
+                    "BRAND_260": "#1a9fff",
+                    "BRAND_360": "#1a9fff",
+                    "BRAND_500": "#1a9fff",
+                    "BRAND_560": "#1383d4"
+},  
+    "spec": 2
+}
